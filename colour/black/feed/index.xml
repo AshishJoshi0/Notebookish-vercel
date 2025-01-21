@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Black &#8211; Notebookish</title>
+	<atom:link href="/colour/black/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sun, 19 Jan 2025 11:57:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>DSM-5 PAPERBACK</title>
+		<link>/product/dsm-5-paperback/</link>
+					<comments>/product/dsm-5-paperback/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sat, 18 Jan 2025 08:26:17 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=74</guid>
+
+					<description><![CDATA[DIAGNOSTIC AND STATISTICAL MANUAL OF MENTAL DISORDERS TEXT REVISION DSM 5 TR 5ED (PB 2022)]]></description>
+										<content:encoded><![CDATA[<p>DIAGNOSTIC AND STATISTICAL MANUAL OF MENTAL DISORDERS TEXT REVISION DSM 5 TR 5ED (PB 2022)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/dsm-5-paperback/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
